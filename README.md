@@ -4,7 +4,7 @@
 - :eyes: I'm currently looking for a job
 - :seedling: I'm currently grokking algorithms and trying to get the secret of good JS code performance
 - :crystal_ball: 2020 Goals: Find a job, make a cake, not to die of coronavirus
-- :zap: Fun Fact: Memes :new_moon_with_face: and Dogs :dog2: are Dope!
+- :zap: Fun Fact: :new_moon_with_face:Memes and :dog2:Dogs are Dope!
 
 <hr />
 
