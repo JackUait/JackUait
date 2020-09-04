@@ -1,9 +1,8 @@
 ### Hi there, my name is Evgeniy Pyatkov aka [JackUait][website]
 
 ## I'm a Gamer, Friend and Developer
-- :eyes: I'm currently looking for a job
 - :seedling: I'm currently grokking algorithms and trying to get the secret of good JS code performance
-- :crystal_ball: 2020 Goals: Find a job, make a cake, not to die of coronavirus
+- :crystal_ball: 2020 Goals: :heavy_check_mark: Find a job, make a cake, not to die of coronavirus
 - :zap: Fun Fact: :new_moon_with_face:Memes and :dog2:Dogs are Dope!
 
 <hr />
