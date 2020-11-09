@@ -2,7 +2,7 @@
 
 ## I'm a Gamer, Friend and Developer
 - :seedling: I'm currently grokking algorithms and trying to get the secret of good JS code performance
-- :crystal_ball: 2020 Goals: Find a job :heavy_check_mark:, make a cake, not to die of coronavirus :heavy_check_mark:
+- :crystal_ball: 2020 Goals: Find a job :heavy_check_mark:, make a cake :heavy_check_mark:, not to die of coronavirus :heavy_check_mark:
 - :zap: Fun Fact: :new_moon_with_face:Memes and :dog2:Dogs are Dope!
 
 <hr />
