@@ -1,5 +1,5 @@
 ## I'm a Gamer, Friend and Developer
-:seedling: I'm currently learning Swift and Swift UI 
+:seedling: I'm currently learning Swift and Swift UI   
 :crystal_ball: 2021 Goals: Visit Poland :ocean:, start a pet project :beetle:, contribute to open source :floppy_disk:  
 :zap: Fun Fact: :new_moon_with_face: Memes and :dog2: Dogs are Dope!
 
