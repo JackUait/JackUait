@@ -12,7 +12,7 @@
 <img align="left" alt="Framer Motion" title="Framer Motion" width="26px" style="margin-right: 5px" src="https://i.ibb.co/3fJr4rS/framer-motion.png" />
 <img align="left" alt="Next.js" title="Next.js" width="26px" style="margin-right: 5px" src="https://i.ibb.co/kgDhQGT/next-js.png" />
 <img align="left" alt="React Query" title="React Query" width="26px" style="margin-right: 5px" src="https://miro.medium.com/max/400/1*Yt_kxgaoVwFX_lO3lwZPlg.png" />
-<img align="left" alt="TypeScript" title="TypeScript" width="26px" style="margin-right: 5px" src="https://firebasestorage.googleapis.com/v0/b/portfolioform-60d02.appspot.com/o/SVG%2Ftypescript.svg?alt=media&token=d4a49d4e-42f5-4ab3-897b-f350f6b17ae3" />
+<img align="left" alt="TypeScript" title="TypeScript" width="26px" style="margin-right: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="Jest" title="Jest" width="26px" style="margin-right: 5px" src="https://www.jojozhangdev.com/images/logos/jest-logo.png" />
 <img align="left" alt="Zustand" title="Zustand" width="26px" style="margin-right: 5px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/285/bear_1f43b.png" />
 <img align="left" alt="Three.js" title="Three.js" width="26px" style="margin-right: 5px" src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/c/c74c5243388bbfa21a39c3e824ddba702a623dec.png" />
