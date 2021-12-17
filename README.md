@@ -1,7 +1,7 @@
 ## Passionate React/Swift developer from Moscow 🏙️
 :seedling: I'm currently learning Swift and Swift UI   
 :crystal_ball: 2021 Goals: Visit Poland :ocean:, start a pet project :beetle:, contribute to open source :floppy_disk:  
-:zap: Fun Fact: I prefer light theme of GitHub 🙃
+:zap: Fun Fact: I prefer GitHub's light theme 🙃
 
 <hr />
 
