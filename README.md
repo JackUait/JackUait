@@ -1,6 +1,6 @@
 ## Passionate React/Swift developer
-:seedling: I'm currently learning Swift and Swift UI   
-:crystal_ball: 2021 Goals: Visit Poland :ocean:, start a pet project :beetle:, contribute to open source :floppy_disk:  
+:ear_of_rice: Currently I'm making the world a worse place   
+:crystal_ball: 2022 Goals: Come up with the next big thing :nail_care:, keep contributing to open source :floppy_disk:  
 :zap: Fun Fact: I prefer GitHub's light theme 🙃
 
 <hr />
