@@ -1,4 +1,4 @@
-## Passionate React developer
+## Passionate Software Engineer
 :ear_of_rice: Currently I'm making the world a worse place   
 :crystal_ball: 2022 Goals: Come up with the next big thing :nail_care:, keep contributing to open source :floppy_disk:  
 :zap: Fun Fact: I prefer GitHub's light theme 🙃
