@@ -1,4 +1,4 @@
 ## Passionate Software Engineer
-:ear_of_rice: Making the world a worse place since 2007   
-:crystal_ball: 2023 Goals: make your coffee spicy ☕️, get good at cooking 👨‍🍳  
-:zap: Fun Fact: I already know how to spice up your coffee 🙃
+:ear_of_rice: Making the world a place
+:crystal_ball: 2024 Goals: create a small side project, become an ML engineer, perform at conferences 😎
+:zap: Fun Fact: I love to meet new people 💃
