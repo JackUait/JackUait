@@ -1,4 +1,4 @@
 ## Passionate Software Engineer
-:ear_of_rice: Making the world a place  
-:crystal_ball: 2024 Goals: create a small side project, become an ML engineer, perform at conferences 😎  
-:zap: Fun Fact: I love to meet new people 💃
+:ear_of_rice: Making the world a place for life  
+:crystal_ball: 2025 Goals: become independent developer, start 3D printing business, write a mobile application 😎  
+:zap: Fun Fact: I'm interested basically in everything that comes across me 💃
