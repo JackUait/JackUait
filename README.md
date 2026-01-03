@@ -1,4 +1,4 @@
 ## Passionate Software Engineer
 :ear_of_rice: Making the world a place for life  
-:crystal_ball: 2025 Goals: become an independent developer, start 3D printing business, write a mobile application 😎  
+:crystal_ball: 2026 Goals: finish the best open-source editor ever made, create the best alternative to Slack and create a bunch of other useful apps
 :zap: Fun Fact: I'm interested basically in everything that comes across me 💃
