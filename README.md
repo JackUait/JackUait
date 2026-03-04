@@ -4,6 +4,6 @@
 :zap: Fun Fact: I'm interested basically in everything that comes across me 💃
 
 You might be interested:
-- 👾 [Blok](https://github.com/JackUait/blok) — Notion-like editor
+- 👾 [Blok](https://github.com/JackUait/blok) — the best open-source alternative to Notion
 - 👻 [Ghost Tab](https://github.com/JackUait/ghost-tab) — Terminal-based editor for agentic coding
 - 💲 [No BS Mortgage Calculator](https://github.com/JackUait/honest-calc) — the name speaks for itself
